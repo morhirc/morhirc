@@ -1,16 +1,18 @@
-## Hi there 👋
+# morhirc
 
-<!--
-**morhirc/morhirc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free Software Developer
 
-Here are some ideas to get you started:
+Windows向けツールを中心に、個人でフリーソフトを制作・公開しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software
+
+- **WinSukkiri** — Windows 11を、もっとシンプルに。
+- **WinNoHara** — Windows PCの状態確認・トラブル切り分け支援ツール
+- **ChatAttic** — ChatGPTの会話を保存・検索・閲覧
+- **Maplimo** — Google Maps Timelineの記録をPCで振り返るビューア
+- **VolScreen** — Windowsの音量変更を画面上にOSD表示
+- **MouseEnter** — マウス右ボタン長押しでEnterキーを入力
+
+## Website
+
+https://morhirc.github.io/
