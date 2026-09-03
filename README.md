@@ -12,6 +12,7 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 - **Maplimo** — Google Maps Timelineの記録をPCで振り返るビューア
 - **VolScreen** — Windowsの音量変更を画面上にOSD表示
 - **MouseEnter** — マウス右ボタン長押しでEnterキーを入力
+- **AtoKana** — 英数で入力してしまったローマ字を日本語変換へ
 
 ## Website
 
