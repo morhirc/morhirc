@@ -6,6 +6,7 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 
 ## Software
 
+- **NetNalyze** — Network Diagnostic Analyzer for Windows
 - **WinSukkiri** — Windows 11を、もっとシンプルに。
 - **WinNoHara** — Windows PCの状態確認・トラブル切り分け支援ツール
 - **ChatAttic** — ChatGPTの会話を保存・検索・閲覧
