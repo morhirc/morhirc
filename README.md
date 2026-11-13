@@ -4,9 +4,12 @@ Free Software Developer
 
 Windows向けツールを中心に、個人でフリーソフトを制作・公開しています。
 
-## Software
+## Web Tools
 
 - **[morhirc PDF エディター](https://morhirc.github.io/pdf-editor/)** — 無料・登録不要。ブラウザ上でPDFに文字・画像・図形を追加・編集できる高機能ツール。
+
+## Software
+
 - **[NetNalyze](https://morhirc.github.io/netnalyze/)** — Network Diagnostic Analyzer for Windows
 - **[Winすっきり](https://morhirc.github.io/winsukkiri/)** — Windows 11を、もっとシンプルに。
 - **[Winの腹の中](https://morhirc.github.io/winnohara/)** — Windows PCの状態確認・トラブル切り分け支援ツール
