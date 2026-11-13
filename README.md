@@ -17,4 +17,6 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 
 ## Website
 
-https://morhirc.github.io/
+- [morhirc 公式サイト](https://morhirc.github.io/)
+- [MOA工房｜PC・ITサポート](https://www.moa-kobo.com/)
+
