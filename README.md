@@ -6,6 +6,7 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 
 ## Software
 
+- **[morhirc PDF エディター](https://morhirc.github.io/pdf-editor/)** — 無料・登録不要。ブラウザ上でPDFに文字・画像・図形を追加・編集できる高機能ツール。
 - **NetNalyze** — Network Diagnostic Analyzer for Windows
 - **WinSukkiri** — Windows 11を、もっとシンプルに。
 - **WinNoHara** — Windows PCの状態確認・トラブル切り分け支援ツール
