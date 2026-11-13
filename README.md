@@ -15,6 +15,8 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 - **[VolScreen](https://morhirc.github.io/volscreen/)** — Windowsの音量変更を画面上にOSD表示
 - **[MouseEnter](https://morhirc.github.io/mouseenter/)** — マウス右ボタン長押しでEnterキーを入力
 - **[AtoKana](https://morhirc.github.io/atokana/)** — 英数で入力してしまったローマ字を日本語変換へ
+- **[OpenDaw-JP](https://morhirc.github.io/opendaw-jp/)** — openDAW を日本語で利用しやすくするための日本語対応版
+- **[UVR-JP](https://morhirc.github.io/uvr-jp/)** — Ultimate Vocal Remover GUI を日本語で利用しやすくするための日本語対応版
 
 ## Website
 
