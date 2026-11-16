@@ -8,6 +8,7 @@ Windows向けツールを中心に、個人でフリーソフトを制作・公�
 
 - **[morhirc PDF エディター](https://morhirc.github.io/pdf-editor/)** — 無料・登録不要。ブラウザ上でPDFに文字・画像・図形を追加・編集できる高機能ツール。
 - **[morhirc画像変換ツール](https://morhirc.github.io/image-converter/)** — 無料・登録不要。ブラウザ上で様々な画像形式を相互変換・圧縮。PDF・EPUBの変換にも対応。
+- **[morhirc Bookリーダー](https://morhirc.github.io/bookreader/)** — 無料・登録不要。ブラウザで漫画・小説・電子書籍を快適に閲覧。PDF・EPUB・RARなどに対応。
 
 ## Software
 
